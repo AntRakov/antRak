@@ -12,6 +12,6 @@
 
 ### Connect with me:
 
-[<img aligin="left" alt="AntonRakov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][https://vk.com/id6428899]
+[<img align="left" alt="AntonRakov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][https://vk.com/id6428899]
 
 -->
