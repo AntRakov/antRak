@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Anton
 
 ## I'm backend devoloper
+- 🇷🇺 Russia,Moscow
+- 🚀 36 years old
 - 🔭 I like to write code
 - 🌱 I’m constantly learning new this
 - 👯 I’m looking to collaborate on ...
