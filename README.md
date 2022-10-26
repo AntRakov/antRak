@@ -6,8 +6,6 @@
 - 🔭 I like to write code
 - 🌱 I’m constantly learning new this
 - 📫 How to reach me: rakovw@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ### Connect with me:
 
